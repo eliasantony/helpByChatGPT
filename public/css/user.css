@@ -1,0 +1,42 @@
+html, .container {
+    background-color: #222531;
+    color: white;
+    font-family: sans-serif;
+    max-width: 70ch;
+    /*padding: 3em 1em;*/
+    margin: auto;
+    line-height: 1.25;
+    font-size: 1.25em;
+}
+.user-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.user-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.user-info {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.user-info strong {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.btn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+h1{
+    padding-bottom: 30px;
+}

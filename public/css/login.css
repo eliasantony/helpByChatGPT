@@ -1,0 +1,29 @@
+html, main {
+    background-color: #222531;
+}
+
+h1 {
+    color: white;
+}
+
+header {
+    background-color: #222531;
+    color: white;
+    /*justify-content: center;*/
+    text-align: center;
+    padding: 20px;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    min-width: 500px;
+}
+
+.btn {
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 100%;
+}

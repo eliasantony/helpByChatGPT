@@ -1,0 +1,50 @@
+html, .container {
+    background-color: #222531;
+    color: white;
+    font-family: sans-serif;
+    max-width: 100ch;
+    margin: auto;
+    /*line-height: 1.25;*/
+    font-size: 1.25em;
+}
+
+.btn-secondary{
+    margin-top: -50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 80vh;
+}
+
+.btn-success {
+    /*margin: 10px auto 0;*/
+    display: block;
+    width: 100%;
+}
+
+.card {
+    background-color: #333945;
+    border-color: #333945;
+    border-radius: 0;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition-duration: 0.3s;
+}
+
+.card-title, .card-text {
+    color: black;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: none;
+    color: black;
+}

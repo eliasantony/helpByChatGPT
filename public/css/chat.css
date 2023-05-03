@@ -1,0 +1,37 @@
+.container {
+    margin-top: 50px;
+}
+
+.form-control {
+    background-color: #2e3440;
+    color: white;
+    border-color: #4c566a;
+}
+
+.btn-primary {
+    background-color: #81a1c1;
+    border-color: #81a1c1;
+}
+
+.btn-primary:hover {
+    background-color: #5e81ac;
+    border-color: #5e81ac;
+}
+
+/* Chat styles */
+.message {
+    background-color: white;
+    color: #222531;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.message:last-of-type {
+    margin-bottom: 0;
+}
+
+a{
+    width: 100%;
+    position:relative;
+    margin-top: 30%;
+}

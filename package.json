@@ -1,0 +1,30 @@
+{
+  "name": "ss2023-ssc-group_9",
+  "version": "1.0.0",
+  "description": "This is the repository from Group 9 for the\nServer-Side Coding in the summer semester 2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.nwt.fhstp.ac.at/cc221025/ss2023-ssc-group_9.git"
+  },
+  "author": "Group 9 (Elias Antony, Zainab Askari, Felix Lippert, Dejan Zeljko)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.0-alpha2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.0",
+    "ws": "^8.13.0"
+  }
+}
